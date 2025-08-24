@@ -23,7 +23,7 @@ The dataset contains sales transactions with customer information, product detai
 - **Customers**: Customer demographics and region information
 - **Products**: Product details including categories and pricing
 - **Sales**: Transaction records with quantities and dates
-[📥 Download Dataset]( Sales-Analysis-Power-BI-/Sales Analysis.pbix at main · HussienBedier1/Sales-Analysis-Power-BI-)
+[📥 Download Dataset](https://github.com/HussienBedier1/Sales-Analysis-Power-BI-/blob/main/Sales%20Analysis.pbix)
 
 ---
 
@@ -82,10 +82,11 @@ Created a sample database named SalesDB with the following tables:
 ## 📸 Dashboard Preview
 
 ### Sales Analysis Dashboard
-[![Sales Analysis Dashboard]( Sales-Analysis-Power-BI-/Sales Analysis.png at main · HussienBedier1/Sales-Analysis-Power-BI-)]( Sales-Analysis-Power-BI-/Sales Analysis.png at main · HussienBedier1/Sales-Analysis-Power-BI-)
+[![Sales Analysis Dashboard](https://github.com/HussienBedier1/Sales-Analysis-Power-BI-/blob/main/Sales%20Analysis.png)](https://github.com/HussienBedier1/Sales-Analysis-Power-BI-/blob/main/Sales%20Analysis.png)
+
 
 ### Data Model View
-[![Data Model View]( Sales-Analysis-Power-BI-/Model View.png at main · HussienBedier1/Sales-Analysis-Power-BI-)]( Sales-Analysis-Power-BI-/Model View.png at main · HussienBedier1/Sales-Analysis-Power-BI-)
+[![Data Model View](https://github.com/HussienBedier1/Sales-Analysis-Power-BI-/blob/main/Model%20View.png)](https://github.com/HussienBedier1/Sales-Analysis-Power-BI-/blob/main/Model%20View.png)
 
 ---
 
